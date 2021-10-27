@@ -1,0 +1,19 @@
+img {
+    width: 400px;
+}
+.divClass h1 {
+    color:rebeccapurple;
+    text-align: center;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    border: 20px solid rgb(25, 43, 37);
+    padding: 50px;
+    background-color: olivedrab;
+    text-align: center;
+}   
+#spanId {
+    font-size:25px;
+    margin: 50px;
+}
